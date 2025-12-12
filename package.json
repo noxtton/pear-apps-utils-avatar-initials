@@ -1,6 +1,6 @@
 {
   "name": "pear-apps-utils-avatar-initials",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "type": "module",
   "description": "A library to generate record avatar initials",
   "main": "src/index.js",
